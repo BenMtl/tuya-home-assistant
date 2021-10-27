@@ -16,7 +16,7 @@ If you like Tuya Home Assistant Integration, please give it a star or fork it an
     <img src="https://images.tuyacn.com/app/hass/ha_tuya.png" width="70%">
 </p>
 
-The Tuya Home Assistant integration is developed for controlling **Powered by Tuya (PBT)** devices using the [tuya-iot-python-sdk](https://github.com/tuya/tuya-iot-python-sdk?_source=df9bd859d17e7610d5b9df34d38a83e9) (a python version of [Tuya Open API](https://developer.tuya.com/en/docs/cloud/?_source=6c7c0e6d9fc9ac8296e1a48954e1d0e4)), and maintained by the official Tuya Developer Team and Home Assistant Community.
+The [Tuya Home Assistant integration](https://www.home-assistant.io/integrations/tuya/) is developed for controlling **Powered by Tuya (PBT)** devices using the [tuya-iot-python-sdk](https://github.com/tuya/tuya-iot-python-sdk?_source=df9bd859d17e7610d5b9df34d38a83e9) (a python version of [Tuya Open API](https://developer.tuya.com/en/docs/cloud/?_source=6c7c0e6d9fc9ac8296e1a48954e1d0e4)), and maintained by the official Tuya Developer Team and Home Assistant Community.
 
 ## Important Note
 
@@ -31,8 +31,6 @@ We are announcing that the **Tuya v2 integration** hosted on this repository is 
 - [Tuya Integration FAQs](./docs/faq.md)
 - [Countries/Regions and Data Center](./docs/regions_dataCenters.md)
 - [Not Supported Device Category](./docs/not_supported_devices.md)
-
-Here is the official [Tuya Home Assistant integration](https://www.home-assistant.io/integrations/tuya/).
 
 If you want to contribute to the Tuya integration, please directly create issues or pull requests in the [Home Assistant Core repository](https://github.com/home-assistant/core/tree/dev/homeassistant/components/tuya).
 
