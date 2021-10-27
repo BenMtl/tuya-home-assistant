@@ -1,14 +1,14 @@
 # Tuya IoT Platform Configuration Guide
 
-This topic describes how to create a project on the [Tuya IoT Platform](https://iot.tuya.com/) and link devices to this project with an account of the Tuya Smart app or Smart Life app.
+This topic describes how to create a project on the [Tuya IoT Platform](https://iot.tuya.com/?_source=a4c65f56395e05cf64cc8d4abb7396b6) and link devices to this project with an account of the Tuya Smart app or Smart Life app.
 
 ## Prerequisites
 
-You have [registered](https://developer.tuya.com/en/docs/iot/tuya-smart-app-smart-life-app-advantages?id=K989rqa49rluq#title-3-Account) with the **Tuya Smart** app or **Smart Life** app.
+You have [registered](https://developer.tuya.com/en/docs/iot/tuya-smart-app-smart-life-app-advantages?id=K989rqa49rluq&_source=8be1a69406ca50092cd1e37cf64c8f38#title-3-Account) with the **Tuya Smart** app or **Smart Life** app.
 
 ## Create a project
 
-1. Log in to the [Tuya IoT Development Platform](https://iot.tuya.com/).
+1. Log in to the [Tuya IoT Development Platform](https://iot.tuya.com/?_source=a4c65f56395e05cf64cc8d4abb7396b6).
 2. In the left navigation pane, click **Cloud**.
 3. On the page that appears, click **Create Cloud Project**.
 4. In the **Create Cloud Project** dialog, set the required parameters.
@@ -19,7 +19,7 @@ You have [registered](https://developer.tuya.com/en/docs/iot/tuya-smart-app-smar
    | Description | User-defined |
    | Industry | Select one as per your needs. |
    | Development Method | Select **Smart Home**. |
-   | Data Center | Select the correct data center to serve your project. For more information, see [Mappings Between OEM App Accounts and Data Centers](https://developer.tuya.com/en/docs/iot/oem-app-data-center-distributed?id=Kafi0ku9l07qb). |
+   | Data Center | Select the correct data center to serve your project. For more information, see [Mappings Between OEM App Accounts and Data Centers](https://developer.tuya.com/en/docs/iot/oem-app-data-center-distributed?id=Kafi0ku9l07qb&_source=6259ab33458dcf85bbf37a67d077a21e). |
 
    <img src="https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/content-platform/hestia/1634629165d82cd408355.png"  width="75%">
 
@@ -49,7 +49,7 @@ Click the newly created project to enter the **Overview** page and get the **Aut
 3. Scan the QR code with the **Tuya Smart** app or **Smart Life** app.
 
    > **important**：
-   The data center selected for your cloud project must be capable of serving the region of your app account. Here is how to find the region: open the mobile app you use and tap **Me** > **Setting** > **Account and Security** > **Region**. For more information, see [Mappings Between OEM App Accounts and Data Centers](https://developer.tuya.com/en/docs/iot/oem-app-data-center-distributed?id=Kafi0ku9l07qb).
+   The data center selected for your cloud project must be capable of serving the region of your app account. Here is how to find the region: open the mobile app you use and tap **Me** > **Setting** > **Account and Security** > **Region**. For more information, see [Mappings Between OEM App Accounts and Data Centers](https://developer.tuya.com/en/docs/iot/oem-app-data-center-distributed?id=Kafi0ku9l07qb&_source=6259ab33458dcf85bbf37a67d077a21e).
 
    ![Mappings](https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/content-platform/hestia/1634629166d85e498a612.png)
 
@@ -66,8 +66,8 @@ Make sure the **data center** you select for your cloud project can serve the **
    <img src="https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/content-platform/hestia/16346317858db898f9179.png"  height="500pt"/>
 
 
-- Data center: The server that your cloud project is hosted on. You must select the correct data center that can serve your **region**. Otherwise, your devices cannot be connected to the [Tuya IoT Development Platform](https://iot.tuya.com/).
+- Data center: The server that your cloud project is hosted on. You must select the correct data center that can serve your **region**. Otherwise, your devices cannot be connected to the [Tuya IoT Development Platform](https://iot.tuya.com/?_source=a4c65f56395e05cf64cc8d4abb7396b6).
 
    <img src="https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/content-platform/hestia/1634629166444cfcf18ed.png"  width="75%">
 
-   For more information, see [Mappings Between OEM App Accounts and Data Centers](https://developer.tuya.com/en/docs/iot/oem-app-data-center-distributed?id=Kafi0ku9l07qb).
+   For more information, see [Mappings Between OEM App Accounts and Data Centers](https://developer.tuya.com/en/docs/iot/oem-app-data-center-distributed?id=Kafi0ku9l07qb&_source=6259ab33458dcf85bbf37a67d077a21e).
