@@ -4,9 +4,9 @@ This topic describes how to install and use the official Tuya integration in Hom
 
 ## Prerequisites
 
-* You have created a cloud project of Smart Home type on the [Tuya IoT Development Platform](https://iot.tuya.com/), added at least one real device or one virtual device, and authorized your project to use the required API services. For more information, see [Configuration Wizard of Smart Home PaaS](https://developer.tuya.com/en/docs/iot/Platform_Configuration_smarthome?id=Kamcgamwoevrx).
+* You have created a cloud project of Smart Home type on the [Tuya IoT Development Platform](https://iot.tuya.com/?_source=a4c65f56395e05cf64cc8d4abb7396b6), added at least one real device or one virtual device, and authorized your project to use the required API services. For more information, see [Configuration Wizard of Smart Home PaaS](https://developer.tuya.com/en/docs/iot/Platform_Configuration_smarthome?id=Kamcgamwoevrx&_source=e005017cea1c156d6f466be0a8dcca41).
 
-    > **Note**: If your cloud project was created before May 25, 2021, you need to perform project migration. For more information, see [How to Migrate to the Tuya Home Assistant Integration](https://developer.tuya.com/en/docs/iot/migrate-from-an-older-version?id=Kamee9wtbd00b#title-3-Operation%20on%20the%20Tuya%20IoT%20Platform).
+    > **Note**: If your cloud project was created before May 25, 2021, you need to perform project migration. For more information, see [How to Migrate to the Tuya Home Assistant Integration](https://developer.tuya.com/en/docs/iot/migrate-from-an-older-version?id=Kamee9wtbd00b&_source=25dc511869fe0d20fcf6b3ec25902277#title-3-Operation%20on%20the%20Tuya%20IoT%20Platform).
 
 * You have installed Python 3.8 (including python3-dev) or a later version on your system.
 
@@ -40,15 +40,15 @@ Only Home Assistant 2021.10.4 and later versions support the official Tuya integ
    | Fields | Description |
    | ------- | -------- |
    | Country | Select the region of your account of the Tuya Smart app or Smart Life app.<blockquote>**Note**: Open the mobile app you use and tap **Me** > **Setting** > **Account and Security** > **Region**. |
-   | Tuya IoT Access ID and Tuya IoT Access Secret | Go to the [Tuya IoT Development Platform](https://iot.tuya.com/cloud/) and select your cloud project. Click the **Overview** tab and find the **Access ID** and **Access Secret** in the **Authorization Key** area. |
+   | Tuya IoT Access ID and Tuya IoT Access Secret | Go to the [Tuya IoT Development Platform](https://iot.tuya.com/cloud/?_source=3a6f90da0e85f686f89c4f85c883e8f0) and select your cloud project. Click the **Overview** tab and find the **Access ID** and **Access Secret** in the **Authorization Key** area. |
    | Account | Your account of the Tuya Smart app or Smart Life app. <blockquote><b>Attention</b>：Do not use the Tuya IoT Development platform account to log in.  |
    | Password | Your password of the Tuya Smart app or Smart Life app. |
 
    > **Note**：
-   The mobile app mentioned in the above table must be the one you use to scan the QR code for linking devices to your cloud project on the [Tuya IoT Development Platform](https://iot.tuya.com/).
+   The mobile app mentioned in the above table must be the one you use to scan the QR code for linking devices to your cloud project on the [Tuya IoT Development Platform](https://iot.tuya.com/?_source=a4c65f56395e05cf64cc8d4abb7396b6).
 
 7. Click **Submit**.
 
-   Click **Overview** in the sidebar on the left. You will find all the smart devices linked to your cloud project created on the [Tuya IoT Development Platform](https://iot.tuya.com/).
+   Click **Overview** in the sidebar on the left. You will find all the smart devices linked to your cloud project created on the [Tuya IoT Development Platform](https://iot.tuya.com/?_source=a4c65f56395e05cf64cc8d4abb7396b6).
 
    ![Image](https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/content-platform/hestia/1634631514c040ab52f07.png)
