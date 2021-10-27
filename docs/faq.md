@@ -20,7 +20,7 @@
 
      <img src="https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/content-platform/hestia/16346317858db898f9179.png" width="35%">
 
-  2. See [Mappings Between OEM App Accounts and Data Centers](https://developer.tuya.com/en/docs/iot/oem-app-data-center-distributed?id=Kafi0ku9l07qb) and find the data center that can serve your region.
+  2. See [Mappings Between OEM App Accounts and Data Centers](https://developer.tuya.com/en/docs/iot/oem-app-data-center-distributed?id=Kafi0ku9l07qb&_source=6259ab33458dcf85bbf37a67d077a21e) and find the data center that can serve your region.
 
   3. (Optional) If you do not find the data center you want to use, click the **Overview** tab and then **Edit** to add data centers.
 
@@ -34,9 +34,9 @@
 
 <font color=black  size="4"><b>Q3: Will I be billed after the free trial of the API service expires?</b></font>
 
-- After expiration, you can visit [Tuya IoT Platform](https://iot.tuya.com) and click Cloud > My Services in the left navigation pane to extend your subscription to the trial edition again.
+- After expiration, you can visit [Tuya IoT Platform](https://iot.tuya.com/?_source=a4c65f56395e05cf64cc8d4abb7396b6) and click Cloud > My Services in the left navigation pane to extend your subscription to the trial edition again.
 
-- The Trial Edition allows you to use all free API services but puts limits on the quota of API calls. For more information about the quota, see [Pricing](https://developer.tuya.com/en/docs/iot/membership-service?id=K9m8k45jwvg9j).
+- The Trial Edition allows you to use all free API services but puts limits on the quota of API calls. For more information about the quota, see [Pricing](https://developer.tuya.com/en/docs/iot/membership-service?id=K9m8k45jwvg9j&_source=3f0ae56a5ab2f91918cdc7b4fa60f2a0).
 
 <font color=black  size="4"><b>Q4: Can I request Tuya's cloud services from an IP address outside the data center region?</b></font>
 
