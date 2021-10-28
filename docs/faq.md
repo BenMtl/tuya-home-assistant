@@ -34,7 +34,7 @@
 
 <font color=black  size="4"><b>Q3: Will I be billed after the free trial of the API service expires?</b></font>
 
-- After expiration, you can visit [Tuya IoT Platform](https://iot.tuya.com/?_source=a4c65f56395e05cf64cc8d4abb7396b6) and click Cloud > My Services in the left navigation pane to extend your subscription to the trial edition again.
+- When approaching to the expiration, you can visit [Tuya IoT Platform](https://iot.tuya.com/?_source=a4c65f56395e05cf64cc8d4abb7396b6) and click Cloud > My Services in the left navigation pane to extend your subscription to the trial edition again.
 
 - The Trial Edition allows you to use the free API service but puts limits on the quota of API calls. For more information about the quota, see [Pricing](https://developer.tuya.com/en/docs/iot/membership-service?id=K9m8k45jwvg9j&_source=3f0ae56a5ab2f91918cdc7b4fa60f2a0).
 
